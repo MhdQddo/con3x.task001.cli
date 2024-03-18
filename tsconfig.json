@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "module": "commonjs", // Ensure the module setting is "commonjs" for compatibility with Node.js
+      // Other compiler options...
+    },
+    // Other configurations...
+}
+  
